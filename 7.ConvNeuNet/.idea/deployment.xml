@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@wx.blockelite.cn:10450 password">
+    <serverData>
+      <paths name="1080ti">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/test" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="TitanXp">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/Conv" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@wx.blockelite.cn:10450 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_530" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
