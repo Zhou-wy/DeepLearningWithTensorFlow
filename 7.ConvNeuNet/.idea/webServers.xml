@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="84e0a20c-0460-4a3a-b647-4380ef57266d" name="1080ti">
+        <fileTransfer accessType="SFTP" host="wx.blockelite.cn" port="10450" sshConfigId="1561698e-621f-4328-981e-b2d18d8057c0" sshConfig="root@wx.blockelite.cn:10450 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
